@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=A/B Ramdisk lz4 remover for lahaina by SyberHexen @ xda-developers
+kernel.string=kernel.string=A/B Ramdisk lz4 remover for lahaina + TWRP installer by SyberHexen @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=0
